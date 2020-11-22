@@ -1,0 +1,5 @@
+@media (max-width:576px){
+    .upper-bar .info:first-child {
+        margin-bottom: 0;
+    }
+}

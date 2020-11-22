@@ -1,0 +1,32 @@
+@media (max-width:576px){
+    .upper-bar .info:first-child {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 768px){
+    .slider .carousel-inner h1 {
+        justify-content: center;
+        font-size: 50px;
+        max-width: 100%;
+        color: #fff;
+        text-align: center;
+        margin: auto;
+    }
+    .slider .carousel-inner h1{
+        font-size: 35px;
+        max-width: 100%;
+        color: #fff;
+        text-align: center;
+        margin: auto;
+        
+    }
+
+}
+
+@media (max-width: 992px){
+    .slider .carousel-inner h1{
+        font-size: 35px;
+        text-align: center;
+    }
+}
